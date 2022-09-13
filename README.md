@@ -1,17 +1,31 @@
-# {project} contest details
+# Sherlock contest details
 
-- 50,000 USDC main award pot
+- 15,000 USDC main award pot
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
 - [Read for more details](https://docs.sherlock.xyz/audits/watsons)
-- Starts September 12, 2022 15:00 UTC
-- Ends October 10, 2022 15:00 UTC
+- Starts September 19, 2022 15:00 UTC
+- Ends September 22, 2022 15:00 UTC
 
 # Resources
 
-- [resource1](url)
-- [resource2](url)
+- [Sherlock Docs](https://docs.sherlock.xyz/)
+- [Recent integration post-mortem](https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/LOZF1YBcH1eBdxlC6HP223cAMeTpNgQ-Kc4EjQuxmGA)
+- [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcabrl)
+- [Strategy README](https://github.com/sherlock-protocol/sherlock-v2-core/blob/355c70df23aa9aa7d46567c9540a6d15be93fcab/STRATEGY.md)
+- [Tob Audit](https://github.com/sherlock-protocol/sherlock-v2-core/blob/main/audits/Sherlock%20-%20Trail%20of%20Bits%20Fix%20Review%20June%202022.pdf)
 
 # Audit scope
 
-# About {project}
+The following contracts in the [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcabrl) repo are in scope.
+
+- `contracts/EulerStrategy.sol`
+- `contracts/TrueFiStrategy.sol`
+
+# About Sherlock
+
+> source [Sherlock Docs](https://docs.sherlock.xyz/faq)
+
+Sherlock is an audit marketplace and smart contract coverage protocol built on the Ethereum blockchain. Sherlock works to protect Decentralized Finance (DeFi) users from smart contract exploits with security reviews from top auditors backed by smart contract coverage on the audited contracts.
+
+Most audit firms rely on their reputation to convince protocol teams to use them. This is a poor way to guarantee incentive alignment. Sherlock provides something far more valuable than reputation: millions of dollars. If a contract that is audited and covered by Sherlock gets exploited, then Sherlock's staking pools can lose millions of dollars. This is a much stronger incentive to do a good job vs. maintaining an amorphous reputation across thousand of audits and dozens of individual auditors.
