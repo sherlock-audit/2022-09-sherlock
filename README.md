@@ -17,7 +17,7 @@
 
 # Audit scope
 
-The following contracts in the [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcabrl) repo are in scope.
+The following contracts in the [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcab) repo are in scope.
 
 - `contracts/EulerStrategy.sol`
 - `contracts/TrueFiStrategy.sol`
