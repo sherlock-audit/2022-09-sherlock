@@ -10,15 +10,16 @@
 # Resources
 
 - [Sherlock Docs](https://docs.sherlock.xyz/)
-- [Recent integration post-mortem](https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/LOZF1YBcH1eBdxlC6HP223cAMeTpNgQ-Kc4EjQuxmGA)
+- [Recent Integration Post-Mortem](https://mirror.xyz/0xE400820f3D60d77a3EC8018d44366ed0d334f93C/LOZF1YBcH1eBdxlC6HP223cAMeTpNgQ-Kc4EjQuxmGA)
 - [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcabrl)
 - [Strategy README](https://github.com/sherlock-protocol/sherlock-v2-core/blob/355c70df23aa9aa7d46567c9540a6d15be93fcab/STRATEGY.md)
 - [ToB Audit](https://github.com/sherlock-protocol/sherlock-v2-core/blob/main/audits/Sherlock%20-%20Trail%20of%20Bits%20Fix%20Review%20June%202022.pdf)
 - [TrueFi Mainnet Contracts](https://github.com/trusttoken/contracts-pre22/tree/8c8d0cb12ace749b7eab8452b53da3f8c080a81a)
+- [Euler Contracts](https://github.com/euler-xyz/euler-contracts)
 
 # Audit scope
 
-The following contracts in the [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcab) repo are in scope.
+The focus of this audit is on any potential losses in Sherlock V2 related to the integration with TrueFi or Euler.
 
 - `contracts/EulerStrategy.sol`
 - `contracts/TrueFiStrategy.sol`
