@@ -14,6 +14,7 @@
 - [Sherlock V2 Core @ 355c70](https://github.com/sherlock-protocol/sherlock-v2-core/tree/355c70df23aa9aa7d46567c9540a6d15be93fcabrl)
 - [Strategy README](https://github.com/sherlock-protocol/sherlock-v2-core/blob/355c70df23aa9aa7d46567c9540a6d15be93fcab/STRATEGY.md)
 - [ToB Audit](https://github.com/sherlock-protocol/sherlock-v2-core/blob/main/audits/Sherlock%20-%20Trail%20of%20Bits%20Fix%20Review%20June%202022.pdf)
+- [TrueFi Mainnet Contracts](https://github.com/trusttoken/contracts-pre22/tree/8c8d0cb12ace749b7eab8452b53da3f8c080a81a)
 
 # Audit scope
 
